@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.1](https://github.com/andriannus/nextjs-template/compare/v0.0.0...v0.0.1) (2022-04-26)
+
+
+### Code Refactoring
+
+* rename file ([71504ea](https://github.com/andriannus/nextjs-template/commit/71504eae169237ad4117ab409a7672d52dbc9af2))
+
+
+### Others
+
+* install and setup jest ([1128253](https://github.com/andriannus/nextjs-template/commit/1128253c6ab551a50e46265f79230f2b312224cc))
+* move main files to `src` ([5752e86](https://github.com/andriannus/nextjs-template/commit/5752e86ba1815deebb053d38c383ff36e2701ef0))
+* remove unused file ([cfb5daa](https://github.com/andriannus/nextjs-template/commit/cfb5daa3ed279c8d6526d9355660a8b19c5cfa2f))
+* use `eslint` instead of `next lint` ([11ffca4](https://github.com/andriannus/nextjs-template/commit/11ffca4bb01ffdbe308bf3eb11b815995acb4b52))
+
 ## 0.0.0 (2022-02-19)
 
 
