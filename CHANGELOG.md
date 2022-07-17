@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.2](https://github.com/andriannus/nextjs-template/compare/v0.0.1...v0.0.2) (2022-07-17)
+
+
+### Others
+
+* update all pages to latest version ([36d6524](https://github.com/andriannus/nextjs-template/commit/36d65242e6bc9c5c95e4fc9bf9b470a10ec0dc48))
+
 ### [0.0.1](https://github.com/andriannus/nextjs-template/compare/v0.0.0...v0.0.1) (2022-04-26)
 
 
